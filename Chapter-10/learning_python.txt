@@ -1,0 +1,7 @@
+In python you can make functions using def.
+In python you can make variable without using an identifier or a type.
+In python you can read from a file very easily.
+In python you can make a dictionary using {} and :.
+In python you can make a list using [].
+In python you can make a tuple using commas.
+In python you can make a set using {} and commas.
